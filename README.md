@@ -56,3 +56,5 @@ dotnet run
 
 # Testes unitários
 ![tests](https://user-images.githubusercontent.com/50475812/82154676-d1e78d80-9845-11ea-9fdb-db5b3a14ef1c.PNG)
+
+## https://github.com/wdragow/DesafioNinja-NET-Tests
